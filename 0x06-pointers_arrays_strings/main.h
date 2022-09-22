@@ -2,8 +2,8 @@
 #define MAIN_H                                                                                                                     
                                                                                                                                         
 /**                                                                                                                                     
- * File: main.h                                                                                                                    
- * Auth: ezekielmacla                                                                                                             
+ * File: main.h
+ *
  * Desc: Header file containing prototypes for all functions                                                                            
  *       used in the 0x06. C - More pointers, arrays and strings directory.
  */                                                                                                                                     
